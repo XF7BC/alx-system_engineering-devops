@@ -1,1 +1,2 @@
-#!/bin/bash\necho $(ls -a)
+#!/bin/bash
+echo $(ls -a)
